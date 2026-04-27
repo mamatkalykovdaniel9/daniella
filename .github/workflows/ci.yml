@@ -1,13 +1,4 @@
- <!DOCTYPE html>
-<html>
-<head>
-   <title>CI/CD Lab</title>
-</head>
-<body>
-   <h1>CI/CD иштеп жатат!</h1>
-   <p>Бул менин биринчи CI/CD проектим</p>
-</body>
-</html>
+
  name: CI/CD Pipeline
 
 on:
